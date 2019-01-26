@@ -1,0 +1,2 @@
+#include "scannerwindow.h"
+
